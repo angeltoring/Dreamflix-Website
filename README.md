@@ -1,2 +1,2 @@
 # Dreamflix-Website
-HTML, CSS website of films and movies catalog
+HTML, CSS, NodeJS, ExpressJS website of films and movies catalog
