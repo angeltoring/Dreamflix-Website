@@ -1,0 +1,97 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+}
+
+h2 a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+  font-family: "Kanit", sans-serif;
+}
+
+h2 a:hover {
+  color: red;
+}
+
+.about {
+  padding: 20px;
+  display: inline-flex;
+}
+
+.image-logo {
+  margin-top: -27px;
+  position: absolute;
+  left: 48%;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: white;
+  font-family: "Kanit", sans-serif;
+  /* margin-top: 100px; */
+  text-align: center;
+  cursor: pointer;
+}
+
+.aboutus {
+  margin-top: 4rem;
+}
+
+.juvelly {
+  position: relative;
+  /* left: 10%; */
+  width: 1000px;
+  height: 200px;
+  background: transparent;
+  border: 3px solid black;
+  padding: 20px 15px;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.angel {
+  position: relative;
+  /* left: 60%; */
+  width: 1000px;
+  height: 200px;
+  background: transparent;
+  border: 3px solid black;
+  padding: 15px 15px;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+p {
+  font-family: "Kanit", sans-serif;
+  text-indent: 20px;
+  /* margin-top: 5px; */
+  cursor: pointer;
+  text-align: justify;
+  margin-right: 15px;
+}
+
+.juvelly img {
+  height: 23vh;
+  float: left;
+  border-radius: 20px;
+  margin-right: 50px;
+}
+
+.angel img {
+  height: 23vh;
+  float: left;
+  border-radius: 20px;
+  margin-right: 50px;
+}
